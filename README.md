@@ -8,4 +8,4 @@ Per scrivere qui dobbiamo usare il [Markdown](https://medium.com/@Alizeyshah1/th
 
 commmmmmmmmmmmmmmmmmmmmeeeeeeeeeeeeeeeeeeeeeeent
 
-![Kitty](./photo/fatty.jpg)
+![Kitty](./Photo/fatty.jpg)
